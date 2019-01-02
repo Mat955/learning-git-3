@@ -1,0 +1,2 @@
+"globstar nu-html-checker *.html"
+"autoprefixer-cli -o style.prefixed.css style.css"
