@@ -5,6 +5,7 @@
 
 .text p,
 h1 {
+    display: -ms-flexbox;
     display: flex;
     font-family: arial, sans-serif;
     text-align: center;
